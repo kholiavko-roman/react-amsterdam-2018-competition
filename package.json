@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://akurganow@github.com/spb-frontend/react-amsterdam-2017-competition.git"
+    "url": "git+https://spb-frontend@github.com/react-amsterdam-2017-competition.git"
   },
   "author": "Alex Kurganov",
   "license": "MIT",
